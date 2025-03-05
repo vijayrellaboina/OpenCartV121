@@ -1,0 +1,55 @@
+12:12:54.326 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Link **** 
+12:12:54.341 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:12:58.828 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+12:13:01.572 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+12:13:01.588 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+12:13:08.991 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+12:13:08.998 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+14:49:42.973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vijay\eclipse-workspace\OpenCartV121\grid-docker.xml
+
+14:49:50.538 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest **** 
+14:49:50.654 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on MyAccount Link **** 
+14:49:51.249 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Link **** 
+14:49:51.253 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:49:55.184 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+14:50:05.253 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+14:50:05.255 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+14:53:13.418 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest **** 
+14:53:15.525 [main] INFO  testCases.TC002_LoginTest - ****Starting TC001_AccountRegistrationTest **** 
+15:00:23.095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vijay\eclipse-workspace\OpenCartV121\grid-docker.xml
+
+15:01:05.230 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest **** 
+15:01:05.551 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on MyAccount Link **** 
+15:01:06.058 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Link **** 
+15:01:06.061 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:01:09.872 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+15:01:19.892 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+15:01:19.898 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+15:05:58.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vijay\eclipse-workspace\OpenCartV121\grid-docker.xml
+
+15:06:03.238 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest **** 
+15:06:03.315 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on MyAccount Link **** 
+15:06:03.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Link **** 
+15:06:03.857 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:06:07.774 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+15:06:17.829 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+15:06:17.848 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+21:23:08.570 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vijay\eclipse-workspace\OpenCartV121\grid-docker.xml
+
+21:23:17.911 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest **** 
+21:23:18.264 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on MyAccount Link **** 
+21:23:18.946 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register Link **** 
+21:23:18.959 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+21:23:24.174 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+21:23:34.227 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+21:23:34.232 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+11:57:19.158 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+11:57:24.870 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+11:57:24.906 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+11:57:42.023 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+11:57:42.031 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+11:57:56.716 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******

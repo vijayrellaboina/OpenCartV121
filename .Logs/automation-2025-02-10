@@ -1,0 +1,6 @@
+11:20:28.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vijay\AppData\Local\Temp\testng-eclipse--31822664\testng-customsuite.xml
+
+11:20:28.408 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+11:21:01.108 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@415156bf: 90 ms
+11:21:01.122 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4912d525: 14 ms
